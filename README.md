@@ -18,5 +18,4 @@ If necessary, to delete the note completely, click the corresponding delete butt
 - CSS
 - JavaScript
 
-
-![20241118-1628-31 6818399-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/406776f2-16ab-4b27-95cc-e641fd90fc18)
+![20241118-1628-31 6818399](https://github.com/user-attachments/assets/e885ece6-fe0a-4f1e-8438-59dfa70099e9)
